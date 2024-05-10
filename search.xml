@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>配置系统编程环境</title>
+      <link href="/2024/05/10/%E9%85%8D%E7%BD%AE%E7%B3%BB%E7%BB%9F%E7%BC%96%E7%A8%8B%E7%8E%AF%E5%A2%83/"/>
+      <url>/2024/05/10/%E9%85%8D%E7%BD%AE%E7%B3%BB%E7%BB%9F%E7%BC%96%E7%A8%8B%E7%8E%AF%E5%A2%83/</url>
+      
+        <content type="html"><![CDATA[]]></content>
+      
+      
+      <categories>
+          
+          <category> 环境配置 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 环境安装 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>记录我的第N次重装系统</title>
+      <link href="/2024/05/10/%E8%AE%B0%E5%BD%95%E6%88%91%E7%9A%84%E7%AC%ACN%E6%AC%A1%E9%87%8D%E8%A3%85%E7%B3%BB%E7%BB%9F/"/>
+      <url>/2024/05/10/%E8%AE%B0%E5%BD%95%E6%88%91%E7%9A%84%E7%AC%ACN%E6%AC%A1%E9%87%8D%E8%A3%85%E7%B3%BB%E7%BB%9F/</url>
+      
+        <content type="html"><![CDATA[<h1 id="重装系统要慎重保存当前数据"><a href="#重装系统要慎重保存当前数据" class="headerlink" title="重装系统要慎重保存当前数据"></a>重装系统要慎重保存当前数据</h1><p><em>已踩：备份数据时漏拷贝1年来的所有py及c++项目</em><br><em>各位请仔细备份</em></p><h1 id="系统重装方式"><a href="#系统重装方式" class="headerlink" title="系统重装方式"></a>系统重装方式</h1><p>制作启动U盘</p><ol><li>下载官方镜像<br><img src="https://cdn.jsdelivr.net/gh/1305788589/picgoimg/img/20240510161350.png"><br>选择<code>下载 Windows 11 磁盘映像 (ISO)</code>—&gt;自己选择多版本还是家庭版</li></ol><p>我个人下载的是win11专业工作站版，百度网盘链接：<br><a href="https://pan.baidu.com/s/1eCUcaG6v9yCdUtl44hNz5A?pwd=4xvj">链接</a><br>提取码：4xvj </p><p>写盘工具rufus：<br><a href="https://pan.baidu.com/s/1V7I0-zI2Qy-OkRFFPktEQg?pwd=yfou">链接</a><br>提取码：yfou</p><p>下载好.iso文件后打开rufus<br>选择下载的iso文件<br><img src="https://cdn.jsdelivr.net/gh/1305788589/picgoimg/img/20240510163640.png"><br>其他默认<br>点击开始后进入页面：</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 系统重装 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 环境安装 </tag>
+            
+            <tag> 文件整理 </tag>
+            
+            <tag> 整合开发环境 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
